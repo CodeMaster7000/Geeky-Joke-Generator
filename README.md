@@ -8,7 +8,7 @@ A geeky joke generator (coded in Python) to have all of you developers cracking 
 
 - Pyjokes module
 
-This can be simply installed with `pip install pyjokes`.
+This can be installed simply with `pip install pyjokes`.
 
 ## Implementation
 
